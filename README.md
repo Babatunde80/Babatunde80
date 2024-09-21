@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Model Deployment, API, AWS**
 
-💬 Ask me about **Data Analytics, Data Science, Statistical Analysis, Machine Learning**
+💬 Ask me about **Data Analytics, Data Science, Statistical Analysis, SQL, Machine Learning**
 
 ⚡ Fun fact **I love sports, {F1 and Football}, I love board games**
 
