@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,sklearn,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,wordpress,anaconda" /><br>
 </div>
 
 <br/>
