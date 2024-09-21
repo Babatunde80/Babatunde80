@@ -41,5 +41,10 @@
 <br/>
 <hr/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Babatunde80&show_icons=true&locale=en&layout=compact" alt="Babatunde80" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Babatunde80&show_icons=true&locale=en" alt="Babatunde80" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Babatunde80&" alt="Babatunde80" /></p>
 
 
